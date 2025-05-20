@@ -32,8 +32,6 @@ Welcome to **Tic Tac Toe Arena** – a classic 2-player game reimagined with a c
 
 ![Tic Tac Toe Arena Screenshot](./Screenshot%202025-05-20%20094253.png)
 
-> Make sure this file (`Screenshot 2025-05-20 094253.png`) is in the **same directory** as `README.md`.
-
 ---
 
 ## 💻 Built With
